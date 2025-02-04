@@ -15,7 +15,6 @@ Here’s a preview of what the game looks like in action:
 
 ![Snake Game Screenshot](https://github.com/B-202401431/-Snake-Game-in-C-Windows-Console-/blob/main/Screenshot%20(348).png)
 
-*(Make sure to replace the placeholder link with the actual link to your image once uploaded to GitHub.)*
 
 ---
 
