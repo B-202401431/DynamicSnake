@@ -91,3 +91,12 @@ Here’s a quick look at the project files:
 2. **Clone or Download the Repository**:
    ```bash
    git clone https://github.com/your-repo/snake-game.git
+
+
+# 🚨 Note
+
+**This code works only on Windows.**
+
+## Compatibility
+- This project is specifically designed to run on Windows OS.
+- It may not function correctly on macOS or Linux without modifications.
