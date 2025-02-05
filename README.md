@@ -13,7 +13,7 @@ Welcome to the **Snake Game**! 🎮 A fun and classic game where you control a s
 
 Here’s a preview of what the game looks like in action:
 
-![Snake Game Screenshot](https://github.com/B-202401431/-Snake-Game-in-C-Windows-Console-/blob/main/Screenshot%20(348).png)
+![Snake Game Screenshot](https://github.com/B-202401431/DynamicSnake/blob/main/gameterminal.png)
 
 
 ---
